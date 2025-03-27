@@ -1,1 +1,1 @@
-# typeScript
+siguiemiento de un curso de typscript
