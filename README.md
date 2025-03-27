@@ -1,1 +1,1 @@
-siguiemiento de un curso de typscript
+Seguimiento de un curso de typscript
